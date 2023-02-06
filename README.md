@@ -1,1 +1,1 @@
-##Katıldığım Projeler
+<center>#Katıldığım Projeler<center>
