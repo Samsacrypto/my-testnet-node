@@ -2,6 +2,6 @@
 
  
   # A Projeleri
- -Celestia
- -Stratos
- -Aleo
+ - Celestia
+ - Stratos
+ - Aleo
