@@ -1,1 +1,1 @@
-<center>#Katıldığım Projeler<center>
+<h1 align="center"> #Katıldığım Projeler<h1>
