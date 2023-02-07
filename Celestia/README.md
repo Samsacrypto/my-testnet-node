@@ -16,3 +16,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 [Twitter](https://twitter.com/Kriptofenomen1?t=jhgTLibOOn4lM8fkUs-Bsg&s=09)
+[Youtube](https://www.youtube.com/channel/UCFRlfYUBuDABD8clVhb-q0A)
